@@ -139,3 +139,4 @@ cython_debug/
 
 # environment folder
 emporis-auto/
+chromedriver
